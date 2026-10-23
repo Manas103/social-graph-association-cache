@@ -1,0 +1,4 @@
+=== run_tests ===
+oracle diff: 2000/2000 forward edges matched exactly
+32011 checks, 0 failures
+exit=0

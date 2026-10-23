@@ -1,0 +1,12 @@
+=== TSan run_tests (setarch -R, ASLR off) ===
+oracle diff: 2000/2000 forward edges matched exactly
+32011 checks, 0 failures
+exit=0
+=== TSan run_throughput_bench (8 reader threads, setarch -R) ===
+populating 20000 edges...
+replaying 200000 ops across 8 threads...
+---RESULTS---
+threads=8 cache_cap_per_shard=5
+ops=200000 seconds=1.239 ops_per_sec=161356
+cache_hits=197136 cache_misses=2864 hit_rate=98.5680%
+exit=0

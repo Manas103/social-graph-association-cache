@@ -1,0 +1,4 @@
+=== run_raw_checker 2000000 2000 8 ===
+---RESULTS---
+checked_operations=2000000 violations=0 seconds=58.77 ops_per_sec=34032
+exit=0

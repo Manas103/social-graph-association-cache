@@ -1,0 +1,5 @@
+=== run_crash_harness 500 ===
+---RESULTS---
+trials=500 killed_as_expected=500
+both_committed=182 neither_committed=318 dangling_forward_only=0 dangling_inverse_only=0 total_dangling=0
+exit=0
